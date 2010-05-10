@@ -1,0 +1,1 @@
+gcc -Wall gtk_win32.c `pkg-config --cflags --libs gtk+-2.0` -o gtk_win32
